@@ -29,7 +29,7 @@ To launch the Learn IDE, click the blue Open button at the top of this page. Thi
 
 Now open the "js-from-dom-to-node" folder on the left folder viewer pane and then select the file `index.js`. IT'S CODING TIME.
 
-First thing is first, I want to show you that everything we will do in the IDE, you can do in the Console. First, return your your browser, right click and select Inspect. Then make sure the Console is selected and type `console.log("Hello, World!")`. You should see "Hello, World!" printed right below your line of code. Congrats! You just wrote your first line of browser-less code. All this does is print out whatever is in between the parenthesis.
+First thing is first, I want to show you that everything we will do in the IDE, you can do in the Console. First, return to your browser, right click and select Inspect. Then make sure the Console is selected and type `console.log("Hello, World!")`. You should see "Hello, World!" printed right below your line of code. Congrats! You just wrote your first line of browser-less code. All this does is print out whatever is in between the parenthesis.
 
 Let's bring that code over to our `index.js` files on the IDE. Make sure you are in the `index.js` file in the `js-from-dom-to-node` folder. Once in there go ahead and paste the following code in there
 
@@ -73,3 +73,5 @@ Error: Cannot find module '/home/jmburges/code/labs/index.js'
 
 The key there is "Error: Cannot find module". That just means you are in the wrong folder. Go back and read the earlier paragraph that starts "If you see `code`...". That should help you out. You need to be seeing `js-from-dom-to-node` next to the clock. 
 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/js-from-dom-to-node'>From DOM To Node and the IDE</a> on Learn.co and start learning to code for free.</p>
