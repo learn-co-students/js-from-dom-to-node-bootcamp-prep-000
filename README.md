@@ -25,7 +25,7 @@ Let's write your first code using NodeJS and non-browser Javascript. To do this,
 
 ![Training Wheels](https://web-dev-readme-photos.s3.amazonaws.com/js/training_wheels.gif)
 
-To launch the Learn IDE, click the blue Open button at the top of this page. This should download the lesson to your IDE and open the IDE.
+To launch the Learn IDE, click the blue Open button at the top of this page. This should download the lesson to your IDE and open the IDE. If you need to re-download the IDE, you can do so [here](http://help.learn.co/the-learn-ide/ide-download-installation-and-set-up-tutorial).
 
 Now open the "js-from-dom-to-node" folder on the left folder viewer pane and then select the file `index.js`. IT'S CODING TIME.
 
@@ -73,3 +73,5 @@ Error: Cannot find module '/home/jmburges/code/labs/index.js'
 
 The key there is "Error: Cannot find module". That just means you are in the wrong folder. Go back and read the earlier paragraph that starts "If you see `code`...". That should help you out. You need to be seeing `js-from-dom-to-node` next to the clock. 
 
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/js-from-dom-to-node'>From DOM To Node and the IDE</a> on Learn.co and start learning to code for free.</p>
