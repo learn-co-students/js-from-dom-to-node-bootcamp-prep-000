@@ -11,13 +11,13 @@ Javascript in the console. Prepare to enjoy the shock and awe of your friends!
 
 For the rest of this material, we will be moving from the basics of DOM manipulation to the meat and potatoes of programming. This means we are going to cover the ideas of conditionals, looping, encapsulation and syntax. I know those may not be familiar to you, but over the next few lessons they will become second nature! Remember when DOM was a scary word? Encapsulation will soon go the way of the DOM. You're going to be encapsulating everything.
 
-Really the goal of the rest of this course is to introduce you to _programmatic thinking_. We will be doing that through explaining Javascript, but the goal of every student we serve at The Flatiron School is to teach programmatic thinking as a general way to solve problems. These problems may be creating the next Facebook, or it may be just solving the best order to complete your errands. You'll notice programmatic, logical thinking starting to permeate throughout your decision process. It's incredibly powerful and something that has aided millions of programmers to solve some of the hardest problems in the world. 
+Really the goal of the rest of this course is to introduce you to _programmatic thinking_. We will be doing that through explaining Javascript, but the goal of every student we serve at The Flatiron School is to teach programmatic thinking as a general way to solve problems. These problems may be creating the next Facebook, or it may be just solving the best order to complete your errands. You'll notice programmatic, logical thinking starting to permeate throughout your decision process. It's incredibly powerful and something that has aided millions of programmers to solve some of the hardest problems in the world.
 
 That is the goal with this class. While we may touch on making pictures of cats spin, we want you to internalize the thought process required to solve that silly problem. Hopefully, you'll go off after this class and solve some slightly more important problems :)
 
 ### Javascript Outside of the Browser
 
-You've spent some time in the browser with Javascript. That's great. Now let's get to where Javascript has been rapidly increasing its programming market share: outside of the browser. You may have heard of it, but a new tool called NodeJS was created a few years back to allow developers to write Javascript code outside of the browser. That is what we are going to use now to be able to go deep on programmatic thinking, without having to explain complicated browser interactions. We want to simplify programming down to its most core elements. 
+You've spent some time in the browser with Javascript. That's great. Now let's get to where Javascript has been rapidly increasing its programming market share: outside of the browser. You may have heard of it, but a new tool called NodeJS was created a few years back to allow developers to write Javascript code outside of the browser. That is what we are going to use now to be able to go deep on programmatic thinking, without having to explain complicated browser interactions. We want to simplify programming down to its most core elements.
 
 ### Hello World
 
@@ -51,7 +51,7 @@ To run your code, you can type `nodejs index.js`. `nodejs` is the node code runn
 Hello, World!
 ```
 
-Woot! It worked. You just wrote your first Javascript outside of the browser. Now let's submit it back to Learn. In your terminal type `learn submit`. This will send your code up to Learn and you may move on to the next lesson. 
+Woot! It worked. You just wrote your first Javascript outside of the browser. Now let's submit it back to Learn. In your terminal type `learn submit`. This will send your code up to Learn and you may move on to the next lesson.
 
 #### Possible Errors
 
@@ -61,7 +61,7 @@ After you type in `nodejs index.js` you get something looks like:
 module.js:471                                                                                                                 
     throw err;                                                                                                                
     ^                                                                                                                         
-                                                                                                                              
+
 Error: Cannot find module '/home/jmburges/code/labs/index.js'                                                                 
     at Function.Module._resolveFilename (module.js:469:15)                                                                    
     at Function.Module._load (module.js:417:25)                                                                               
@@ -71,7 +71,11 @@ Error: Cannot find module '/home/jmburges/code/labs/index.js'
     at bootstrap_node.js:508:3                                                                                                
 ```
 
-The key there is "Error: Cannot find module". That just means you are in the wrong folder. Go back and read the earlier paragraph that starts "If you see `code`...". That should help you out. You need to be seeing `js-from-dom-to-node` next to the clock. 
+The key there is "Error: Cannot find module". That just means you are in the wrong folder. Go back and read the earlier paragraph that starts "If you see `code`...". That should help you out. You need to be seeing `js-from-dom-to-node` next to the clock.
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-from-dom-to-node'>From DOM To Node and the IDE</a> on Learn.co and start learning to code for free.</p>
+cd labs
+labs
+HELLO,World
+console.log("Hello, World!")
