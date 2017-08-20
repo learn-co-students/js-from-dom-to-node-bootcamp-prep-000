@@ -21,7 +21,7 @@ var height = "74"
 if(name===Susan) {console.log("The name is correct.")}
 nodejs index.js
 else {console.log("Expected the name to be Susan.")}
-var name = "Joe"
+var name = "Susan"
 
 var height = "74"
 if (name === "Susan") {
@@ -30,3 +30,5 @@ if (name === "Susan") {
 else {
     console.log("Expected the name to be Susan")
 }
+nodejs index.js
+nodejs index.js
