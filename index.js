@@ -1,1 +1,2 @@
-// write your code below!
+// writ your code below!
+console.log("Hello, World!")
