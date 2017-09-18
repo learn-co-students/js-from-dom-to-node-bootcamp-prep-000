@@ -25,7 +25,7 @@ Let's write your first code using NodeJS and non-browser Javascript. To do this,
 
 ![Training Wheels](https://web-dev-readme-photos.s3.amazonaws.com/js/training_wheels.gif)
 
-To launch the Learn IDE, click the blue Open button at the top of this page. This should download the lesson to your IDE and open the IDE. If you need to re-download the IDE, you can do so [here](http://help.learn.co/the-learn-ide/ide-download-installation-and-set-up-tutorial).
+To launch the Learn IDE, click the blue Open button at the top of this page. This should download the lesson to your IDE and open the IDE. If you need to re-download the IDE, you can do so [here](http://help.learn.co/the-learn-ide/how-to-download-and-use-learn-ide-3).
 
 Now open the "js-from-dom-to-node" folder on the left folder viewer pane and then select the file `index.js`. IT'S CODING TIME.
 
