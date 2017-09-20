@@ -37,7 +37,9 @@ Let's bring that code over to our `index.js` file on the IDE. Make sure you are 
 console.log("Hello, World!")
 ```
 
-Now when you hit Enter, nothing super interesting will happen. All that occurs is the cursor moves to a new line. That's because you are in the text editor. This is pretty much the same as using Word. To get this to actually return something like we did in the Console in the browser we need to _execute_ the `index.js` file. It sounds super official, but all we are going to do is tell the IDE "I'm ready, run this code and show me the result". The way we do that is through the bottom of the IDE called the Terminal. Below your code you see a flashing cursor like this:
+Now when you hit Enter, nothing super interesting will happen. All that occurs is the cursor moves to a new line. That's because you are in the text editor. This is pretty much the same as using Word. To get this to actually return something like we did in the Console in the browser we need to _execute_ the `index.js` file. It sounds super official, but all we are going to do is tell the IDE "I'm ready, run this code and show me the result".
+
+First, we have to **save the file**. Next, look at the pane at the bottom of the IDE. This is your terminal. Below your code you should see a flashing cursor like this:
 
 ![command line in ide](https://web-dev-readme-photos.s3.amazonaws.com/js/ide-command-line.png)
 
