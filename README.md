@@ -17,7 +17,7 @@ That is the goal with this class. While we may touch on making pictures of cats 
 
 ### Javascript Outside of the Browser
 
-You've spent some time in the browser with Javascript. That's great. Now let's get to where Javascript has been rapidly increasing its programming market share: outside of the browser. You may have heard of it, but a new tool called NodeJS was created a few years back to allow developers to write Javascript code outside of the browser. That is what we are going to use now to be able to go deep on programmatic thinking, without having to explain complicated browser interactions. We want to simplify programming down to its most core elements. 
+You've spent some time in the browser with Javascript. That's great. Now let's get to where Javascript has been rapidly increasing its programming market share: outside of the browser. You may have heard of it, but a new tool called NodeJS was created a few years back to allow developers to write Javascript code outside of the browser. That is what we are going to use now to be able to go deep onc programmatic thinking, without having to explain complicated browser interactions. We want to simplify programming down to its most core elements. 
 
 ### Hello World
 
