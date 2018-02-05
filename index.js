@@ -1,1 +1,2 @@
-// write your code below!
+// write your c
+console.log("Hello, World!")
