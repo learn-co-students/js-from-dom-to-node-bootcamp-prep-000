@@ -72,7 +72,7 @@ Error: Cannot find module '/home/jmburges/code/labs/index.js'
     at startup (bootstrap_node.js:150:9)                                                                                      
     at bootstrap_node.js:508:3                                                                                                
 ```
-
+:required
 The key there is "Error: Cannot find module". That just means you are in the wrong folder. Go back and read the earlier paragraph that starts "If you see `code`...". That should help you out. You need to be seeing `js-from-dom-to-node` next to the clock. 
 
 
