@@ -1,4 +1,4 @@
-# Moving Away from the DOM
+*# Moving Away from the DOM
 
 Congratulations! You are now able to understand how Javascript interacts with websites through the DOM. That's a big deal. Take a few seconds, breathe in, breath out and realize that you now know something you didn't before. Only a few lessons ago, you didn't even know what the DOM was. Now you understand how to manipulate it.
 
