@@ -1,1 +1,1 @@
-// write your code below!
+console.log("Hey man can you spare a cigarette")
