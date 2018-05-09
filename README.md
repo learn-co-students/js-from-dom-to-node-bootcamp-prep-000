@@ -27,7 +27,7 @@ Let's write your first code using NodeJS and non-browser Javascript. To do this,
 
 To launch the Learn IDE, click the blue Open button at the top of this page. This should download the lesson to your IDE and open the IDE. If you need to re-download the IDE, you can do so [here](http://help.learn.co/the-learn-ide/how-to-download-and-use-learn-ide-3).
 
-Now open the "js-from-dom-to-node" folder on the left folder viewer pane and then select the file `index.js`. IT'S CODING TIME.
+Now open the "js-from-dom-to-node" folder on the left folder viewer pane and then select the file `index.js`w. IT'S CODING TIME.
 
 First thing is first, I want to show you that everything we will do in the IDE, you can do in the Console. First, return to your browser, right click and select Inspect. Then make sure the Console is selected and type `console.log("Hello, World!")` and press Enter. You should see "Hello, World!" printed right below your line of code. Congrats! You just wrote your first line of browser-less code. All this does is print out whatever is in between the parenthesis.
 
