@@ -1,2 +1,8 @@
 // write your code below!
-console.log("hello,World!")
+var name = "Joe"
+var height = "74"
+
+
+// Don't worry about this
+module.exports = { name, height
+}
