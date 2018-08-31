@@ -1,1 +1,2 @@
-// write your code below!
+// write your code below
+var abc ="document.querySelector()";
