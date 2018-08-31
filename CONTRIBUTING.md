@@ -1,6 +1,5 @@
-# Contributing to Learn.co Curriculum
-
-We're really excited that you're about to contribute to the [open curriculum](https://learn.co/content-license) on [Learn.co](https://learn.co). If this is your first time contributing, please continue reading to learn how to make the most meaningful and useful impact possible.
+console.log("Hello, World!")
+'re really excited that you're about to contribute to the [open curriculum](https://learn.co/content-license) on [Learn.co](https://learn.co). If this is your first time contributing, please continue reading to learn how to make the most meaningful and useful impact possible.
 
 ## Raising an Issue to Encourage a Contribution
 
