@@ -9,7 +9,7 @@ Javascript in the console. Prepare to enjoy the shock and awe of your friends!
 
 ## From DOM Manipulation to Programming Logic
 
-For the rest of this material, we will be moving from the basics of DOM manipulation to the meat and potatoes of programming. This means we are going to cover the ideas of conditionals, looping, encapsulation and syntax. I know those may not be familiar to you, but over the next few lessons they will become second nature! Remember when DOM was a scary word? Encapsulation will soon go the way of the DOM. You're going to be encapsulating everything.
+For the rest of this material, we will be moving from the basics of DOM manipulation to the meat and potatoes of programming. This means we are going to ccover the ideas of conditionals, looping, encapsulation and syntax. I know those may not be familiar to you, but over the next few lessons they will become second nature! Remember when DOM was a scary word? Encapsulation will soon go the way of the DOM. You're going to be encapsulating everything.
 
 Really the goal of the rest of this course is to introduce you to _programmatic thinking_. We will be doing that through explaining Javascript, but the goal of every student we serve at The Flatiron School is to teach programmatic thinking as a general way to solve problems. These problems may be creating the next Facebook, or it may be just solving the best order to complete your errands. You'll notice programmatic, logical thinking starting to permeate throughout your decision process. It's incredibly powerful and something that has aided millions of programmers to solve some of the hardest problems in the world. 
 
