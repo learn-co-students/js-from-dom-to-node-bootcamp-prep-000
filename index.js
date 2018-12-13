@@ -1,1 +1,1 @@
-// write your code below!
+console.log("Having Fun with Coding")
