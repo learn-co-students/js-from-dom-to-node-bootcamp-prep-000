@@ -1,5 +1,5 @@
-let person1 = "Peter"
-let person2 = "Withnail"
+let person1 = "Zach"
+let person2 = "Nick"
 
 console.log( 'Hi, how are you, ' + person2 + '?' )
 console.log( 'Oh, I am doing just fine, ' + person1 + ', thanks!' )
