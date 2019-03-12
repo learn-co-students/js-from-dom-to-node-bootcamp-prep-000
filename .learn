@@ -1,7 +1,2 @@
-tags:
-  - JavaScript
-  - node
-  - console
-  - ide setup
-languages:
-  - JavaScript
+console.log('Hello, World!');
+
