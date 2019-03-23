@@ -1,5 +1,0 @@
-let person1 = "Peter"
-let person2 = "Whithall"
-
-console.log ("Hi How Are you' + person2 "?")
-console.log ("Oh I am doing fine' +Person1 + "Thanks"
