@@ -1,1 +1,1 @@
-nodeconsole.lab ("Hello,World")
+console.log ("Hello,World!")
