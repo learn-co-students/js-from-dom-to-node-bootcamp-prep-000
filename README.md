@@ -1,3 +1,4 @@
+learn submit
 # Moving Away from the DOM
 
 Congratulations! You are now able to understand how Javascript interacts with
