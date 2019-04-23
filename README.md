@@ -112,7 +112,7 @@ right folder. Our goal is to make it into the "js-from-dom-to-node" folder. If
 you look at the text next to the time, you should see `js-from-dom-to-node` or
 something very similar. If you see that, you are good and you can skip the next
 section. If it says something else, follow these instructions:
-
+from
 > If you see `code`, we need to go into our `labs` folder first. To do this type
 > `cd labs`. Now if should see `labs` next to the clock. We have to go one more
 > folder in. I know this by looking at the folder structure on the left. See how
@@ -121,7 +121,7 @@ section. If it says something else, follow these instructions:
 > right to get the _exact_ name and then type `cd EXACT-FOLDER-YOU-WANT-TO-ENTER`.
 > In my case, I get `js-from-dom-to-node`. If you were successful, you'll see
 > `js-from-dom-to-node` next to the clock.
-
+to
 #### Running Code With Node
 
 To run your code, in your terminal, you can type `node index.js`. `node`
