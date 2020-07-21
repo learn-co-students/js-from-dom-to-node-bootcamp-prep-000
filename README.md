@@ -162,5 +162,3 @@ wrong folder. Go back and read the earlier paragraph that starts "If you see
 `js-from-dom-to-node` next to the clock.
 
 [ide]: http://help.learn.co/the-learn-ide/how-to-download-and-use-learn-ide-3
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/js-from-dom-to-node'>From DOM To Node and the IDE</a> on Learn.co and start learning to code for free.</p>
