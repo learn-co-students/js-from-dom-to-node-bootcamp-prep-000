@@ -3,5 +3,6 @@ tags:
   - node
   - console
   - ide setup
+  - bcp
 languages:
   - JavaScript
