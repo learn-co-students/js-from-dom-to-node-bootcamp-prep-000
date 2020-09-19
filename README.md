@@ -8,7 +8,7 @@ manipulate it.
 
 ![Perspective](https://web-dev-readme-photos.s3.amazonaws.com/js/perspective.gif)
 
-If you ever want to show your friends something cool, open up the console on any
+If you want to show your friends something cool, open up the console on any
 web page and then find the selector for an element, then modify it using
 Javascript in the console. Prepare to enjoy the shock and awe of your friends!
 
