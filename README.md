@@ -13,8 +13,7 @@ web page and then find the selector for an element, then modify it using
 Javascript in the console. Prepare to enjoy the shock and awe of your friends!
 
 ## From DOM Manipulation to Programming Logic
-
-For the rest of this material, we will be moving from the basics of DOM
+test
 manipulation to the meat and potatoes of programming. This means we are going to
 cover the ideas of conditionals, looping, encapsulation and syntax. I know those
 may not be familiar to you, but over the next few lessons they will become
