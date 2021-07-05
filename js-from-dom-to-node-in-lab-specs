@@ -1,0 +1,5 @@
+console.log let person1 = "Peter"
+let person 2 = "hithall"
+
+console.log ('Hi How are you' + Person2 + '?')
+console.log ('Oh I am doing fine ' + Person1' + 'Thanks!")
